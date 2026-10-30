@@ -12,3 +12,4 @@ C:\Users\Hp\Documents\ISMT Csharp\classobj\obj\Debug\net10.0\refint\classobj.dll
 C:\Users\Hp\Documents\ISMT Csharp\classobj\obj\Debug\net10.0\classobj.pdb
 C:\Users\Hp\Documents\ISMT Csharp\classobj\obj\Debug\net10.0\classobj.genruntimeconfig.cache
 C:\Users\Hp\Documents\ISMT Csharp\classobj\obj\Debug\net10.0\ref\classobj.dll
+C:\Users\Hp\Documents\ISMT Csharp\classobj\obj\Debug\net10.0\classobj.sourcelink.json
