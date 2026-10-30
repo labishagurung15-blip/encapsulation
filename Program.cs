@@ -117,7 +117,7 @@
 
 
 Person p = new Person();
-p.Name = "lab";
+p.Name = "syam";
 Console.WriteLine(p.Name);
 
 class Person
